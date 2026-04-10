@@ -4,16 +4,6 @@ This document outlines the foundational tasks required to kickstart the Stutify 
 
 ## Phase 1: Infrastructure & Repository Setup
 
-### [Issue #1] Project Initialization and Repository Structure
-
-**Description**: Setup the basic monorepo structure for Frontend and Backend.
-**Tasks**:
-
-- [ ] Setup `frontend/` directory using Vite + React + TypeScript.
-- [ ] Setup `backend/` directory using Node.js + Express + TypeScript.
-- [ ] Configure ESLint and Prettier for consistent code style across the project.
-- [ ] Create basic `.gitignore` for both environments.
-
 ### [Issue #2] Database Schema Design & Migration Setup
 
 **Description**: Define the initial PostgreSQL schema for users, schedules, and assignments.
